@@ -83,6 +83,7 @@ GEM
       activesupport (>= 2.3.2)
       cocaine (>= 0.0.2)
       mime-types
+    pg (0.18.2)
     polyglot (0.3.5)
     rack (1.4.7)
     rack-cache (1.2)
@@ -142,5 +143,6 @@ PLATFORMS
 
 DEPENDENCIES
   mysql2
+  pg
   sqlite3
   wagn

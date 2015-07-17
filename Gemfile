@@ -6,6 +6,7 @@ gem 'wagn'
 
 gem 'mysql2'
 gem 'sqlite3'
+gem 'pg'
 
 
 
